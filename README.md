@@ -1,2 +1,2 @@
 # asbTest
-test repository created by asb
+test repository
