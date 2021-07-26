@@ -1,0 +1,1 @@
+This is a text file that should be ignored as a non-json file by applies.
