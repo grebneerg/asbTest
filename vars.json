@@ -1,9 +1,7 @@
 {
   "asbVar": {
     "$id": "asbVar",
-    "$schema": "https://schema.yext.com/config/vars/v1",
     "displayName": "asb variable",
     "type": "string",
-    "toolTip": "Test variable asb"
   }
 }
