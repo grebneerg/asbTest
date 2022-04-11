@@ -1,4 +1,3 @@
-
 {
         "zendeskSubdomain": {
                 "displayName": "Zendesk Subdomain",
@@ -7,8 +6,10 @@
         },
         "businessId": {
                 "displayName": "Business ID",
-                "type": "invalid"
+                "type": "number"
         },
         "autoGenerateSitemap": {
+                "displayName": "Map",
+                "type": "boolean"
         }
 }
