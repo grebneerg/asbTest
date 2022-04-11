@@ -1,8 +1,13 @@
 {
-  "asbVar": {
-    "displayName": "asb variable",
-    "type": "string"
-  },
-  "autoGenerateSitemap": {
-  }
+        "zendeskSubdomain": {
+                "displayName": "Zendesk Subdomain",
+                "toolTip": "Your Zendesk subdomain, should not include .zendesk.com -- ex: yext for yext.zendesk.com",
+                "type": "url"
+        },
+        "businessId": {
+                "displayName": "Business ID",
+                "type": "invalid"
+        },
+        "autoGenerateSitemap": {
+        }
 }
