@@ -2,6 +2,6 @@
   "asbVar": {
     "$id": "asbVar",
     "displayName": "asb variable",
-    "type": "string",
+    "type": "string"
   }
 }
